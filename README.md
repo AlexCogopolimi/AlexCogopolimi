@@ -4,7 +4,7 @@
 
 - 🔬 **M.Sc. thesis** – hydrogen storage and compression in metal hydrides, GECOS group (LabX, Politecnico di Milano): recommissioned an H₂ test bench and developed a numerical model of metal-hydride compression *(code kept private pending publication)*
 - ❄️ **European Course of Cryogenics 2026** (TU Dresden, WUST, NTNU) – 1st in Cryogenic Processes, 2nd in Cryogenic Fundamentals
-- 📫 cogoalex22@gmail.com · [LinkedIn](LINKEDIN_URL)
+- 📫 cogoalex22@gmail.com · [LinkedIn](www.linkedin.com/in/alex-cogo)
 
 ---
 
